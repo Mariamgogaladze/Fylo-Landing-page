@@ -3,12 +3,16 @@
 ![Fylo landing page here](/preview.png)
 ![second](/preview-2.png)
 ![third](/preview-3.png)
+
+
 This is a landing page project for Fylo, built using HTML and CSS. The page includes responsive design elements, such as flexbox and grid, to ensure it looks great on screens of all sizes.
 
 # Installation
 To use this project, simply clone or download the repository and open the main.html file in your web browser.
 
-
+## Demo 
+ You can try out the live demo of the Testimonials grid section here : https://mariamgogaladze.github.io/Testimonials-Grid/
+ 
 # Copy code
 git clone https://github.com/Mariamgogaladze/Fylo-landing-page
 
